@@ -1,16 +1,28 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
+  <h1>Hola 👋, Soy Pablo</h1>
+  <h3 align="center">Ingeniero en informática recientemente egresado, en busca de mi primera experiencia profesional.</h3>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/pablo-bastian-reyes-canihuan/">
+    <img src="https://img.shields.io/badge/Linkedin-blue"/>
+  </a>
+</div>
 
-<!--
-**Pablreyesc/Pablreyesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 👨‍💻About Me:
+
+- 📚 Actualmente estoy estudiando Angular y React.js
+- ⚽ Me gusta hacer Deportes.
+- 🎮 Tambien me gustan los videojuegos.
+
+---
+
+<div align="left">
+  <h3>💻 Competencias: </h3>
+  <img src="" title="" alt="">
+</div>
