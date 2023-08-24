@@ -24,5 +24,11 @@
 
 <div align="left">
   <h3>💻 Competencias: </h3>
-  <img src="" title="" alt="">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-256.png" title="Angular" alt="Angular"         width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" title="Java" alt="Java" width="40"       height="40"/>
+  <img src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/640/aws-256.png" title="AWS" alt="AWS" width="40"               height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" title="MySql" alt="MySql" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-256.png" title="Laravel" alt="Laravel"        width="40" height="40"/>
 </div>
