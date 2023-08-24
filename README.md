@@ -9,12 +9,9 @@
   </a>
 </div>
 
-
-
-
 ---
 
-### 👨‍💻About Me:
+### 👨‍💻About Me :
 
 - 📚 Actualmente estoy estudiando Angular y React.js
 - ⚽ Me gusta hacer Deportes.
@@ -32,3 +29,10 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" title="MySql" alt="MySql" width="40" height="40"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-256.png" title="Laravel" alt="Laravel"        width="40" height="40"/>
 </div>
+
+---
+
+### 📊My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablreyesc&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
