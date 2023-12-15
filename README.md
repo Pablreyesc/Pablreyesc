@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
   <h1>Hola 👋, Soy Pablo</h1>
-  <h3 align="center">Ingeniero en informática recientemente egresado, en busca de mi primera experiencia profesional.</h3>
+  <h3 align="center">Ingeniero en informática</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pablo-bastian-reyes-canihuan/">
