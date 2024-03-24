@@ -16,7 +16,7 @@
 - 📚 Actualmente estoy estudiando Angular y React.js
 - ⚽ Me gusta hacer Deportes.
 - 🎮 Tambien me gustan los videojuegos.
-
+- Actualmente, me estoy desempeñando como desarrollador full stack en Dimension S.A. Implementando soluciones tecnológicas para empresas reconocidas del sector financiero
 ---
 
 <div align="left">
